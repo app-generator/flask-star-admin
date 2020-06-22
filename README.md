@@ -1,8 +1,9 @@
-# [Flask Dashboard Boilerplate](https://appseed.us/boilerplate-code/flask-dashboard)
+# [Flask Dashboard StarAdmin](https://appseed.us/admin-dashboards/flask-dashboard-staradmin)
 
-> Template [boilerplate code](https://appseed.us/boilerplate-code) used by [AppSeed](https://appseed.us) to generate simple admin dashboards coded in [Flask](https://palletsprojects.com/p/flask/) - Features:
+> **Open-Source Admin Dashboard** coded in **Flask Framework** by **AppSeed** [Web App Generator](https://appseed.us/app-generator) - Features:
 
-- UI Kit: **Datta Able Dashboard** (Lite Version) provided by **CodedThemes**
+- UI Kit: **[Star Admin](https://www.bootstrapdash.com/product/star-admin-free/?ref=23)** (Free Version) provided by **[BootstrapDash](https://www.bootstrapdash.com/?ref=23)**
+- Codebase: [Flask Dashboard Boilerplate](https://github.com/app-generator/boilerplate-code-flask-dashboard) v1.0.1
 - SQLite, PostgreSQL, SQLAlchemy ORM
 - Alembic (DB schema migrations)
 - Modular design with **Blueprints**
@@ -15,17 +16,11 @@
 
 > Links
 
-- [Boierplate Code Flask Dashboard](https://boilerplate-code-flask-dashboard.appseed.us/) - LIVE Demo
-- [Boierplate Code Flask Dashboard](https://docs.appseed.us/boilerplate-code/flask-dashboard/) - Documentation
-- [Boierplate Code Flask Dashboard](https://appseed.us/boilerplate-code/flask-dashboard) - Official product page
+- [Flask Dashboard StarAdmin](https://flask-dashboard-staradmin.appseed.us/) - LIVE Demo
+- [Flask Dashboard StarAdmin](https://docs.appseed.us/admin-dashboards/flask-dashboard-staradmin/) - Documentation
+- [Flask Dashboard StarAdmin](https://appseed.us/admin-dashboards/flask-dashboard-staradmin) - Official product page
 - More [Flask Admin Dashboards](https://appseed.us/admin-dashboards/flask) - index hosted by **[AppSeed](https://appseed.us)**
 - [Open-Source Admin Dashboards](https://appseed.us/admin-dashboards/open-source) - index hosted by **[AppSeed](https://appseed.us)**
-
-> Projects that use this starter
-
-- [Flask Corona Dark](https://appseed.us/admin-dashboards/flask-dashboard-corona-dark) - [demo](https://flask-dashboard-corona-dark.appseed.us/), [sources](https://github.com/app-generator/flask-dashboard-corona-dark)
-- [Flask DattaAble PRO](https://appseed.us/admin-dashboards/flask-dashboard-dattaable-pro) - [demo](https://flask-dashboard-dattaable-pro.appseed.us/)
-- [Flask Atlantis Dark](https://appseed.us/admin-dashboards/flask-dashboard-atlantis-dark) - [demo](https://flask-dashboard-atlantis-dark.appseed.us/login.html), [sources](https://github.com/app-generator/flask-dashboard-atlantis-dark)
 
 <br />
 
@@ -40,7 +35,7 @@ PRO versions include **Premium UI Kits**, Lifetime updates and **24/7 LIVE Suppo
 <br />
 <br />
 
-![Boierplate Code Flask Dashboard - Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/boilerplate-code-flask-dashboard/master/media/boilerplate-code-flask-dashboard-screen.png)
+![Boierplate Code Flask Dashboard - Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/flask-dashboard-staradmin/master/media/flask-dashboard-staradmin-screen.png)
 
 <br />
 
@@ -48,8 +43,8 @@ PRO versions include **Premium UI Kits**, Lifetime updates and **24/7 LIVE Suppo
 
 ```bash
 $ # Get the code
-$ git clone https://github.com/app-generator/boilerplate-code-flask-dashboard.git
-$ cd boilerplate-code-flask-dashboard
+$ git clone https://github.com/app-generator/flask-dashboard-staradmin.git
+$ cd flask-dashboard-staradmin
 $
 $ # Virtualenv modules installation (Unix based systems)
 $ virtualenv env
@@ -215,8 +210,8 @@ The application can be easily executed in a docker container. The steps:
 > Get the code
 
 ```bash
-$ git clone https://github.com/app-generator/boilerplate-code-flask-dashboard.git
-$ cd boilerplate-code-flask-dashboard
+$ git clone https://github.com/app-generator/flask-dashboard-staradmin.git
+$ cd flask-dashboard-staradmin
 ```
 
 > Start the app in Docker
@@ -241,8 +236,8 @@ Steps to deploy on **Heroku**
 
 ```bash
 $ # Clone the source code:
-$ git clone https://github.com/app-generator/boilerplate-code-flask-dashboard.git
-$ cd boilerplate-code-flask-dashboard
+$ git clone https://github.com/app-generator/flask-dashboard-staradmin.git
+$ cd flask-dashboard-staradmin
 $
 $ # Check Heroku CLI is installed
 $ heroku -v
@@ -315,4 +310,4 @@ Visit `http://localhost:8001` in your browser. The app should be up & running.
 <br />
 
 ---
-[Flask Dashboard Boilerplate](https://appseed.us/boilerplate-code/flask-dashboard) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
+[Flask Dashboard StarAdmin](https://appseed.us/admin-dashboards/flask-dashboard-staradmin) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).

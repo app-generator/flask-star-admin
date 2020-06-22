@@ -1,14 +1,13 @@
 # Change Log
 
-## Unreleased
-### Improvements
+## [1.0.1] 2020-06-22
+### Improvements & Bug fixes
 
+- Codebase update - [Flask Dashboard Boilerplate](https://github.com/app-generator/boilerplate-code-flask-dashboard) v1.0.1
+- Patch icons.html page
 - 2020-06-22 - Added HEROKU support. Impacted files:
     - runtime.txt - Bump the Python version to 3.6.10
     - README added new section for HEROKU deployment
-    
-## [1.0.1] 2020-05-30
-### Improvements & Bug Fixes
 
 - Patch #Bug - Return a 403 Error for unauthorized access
 - Update Licensing information
