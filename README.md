@@ -1,4 +1,4 @@
-# [Flask Dashboard StarAdmin](https://appseed.us/admin-dashboards/flask-dashboard-staradmin)
+# [Flask Dashboard - StarAdmin Design](https://appseed.us/admin-dashboards/flask-dashboard-staradmin)
 
 > **Open-Source Admin Dashboard** coded in **Flask Framework** by **AppSeed** [Web App Generator](https://appseed.us/app-generator) - Features:
 
@@ -16,11 +16,11 @@
 
 > Links
 
-- [Flask Dashboard StarAdmin](https://flask-dashboard-staradmin.appseed.us/) - LIVE Demo
-- [Flask Dashboard StarAdmin](https://docs.appseed.us/admin-dashboards/flask-dashboard-staradmin/) - Documentation
-- [Flask Dashboard StarAdmin](https://appseed.us/admin-dashboards/flask-dashboard-staradmin) - Official product page
-- More [Flask Admin Dashboards](https://appseed.us/admin-dashboards/flask) - index hosted by **[AppSeed](https://appseed.us)**
-- [Open-Source Admin Dashboards](https://appseed.us/admin-dashboards/open-source) - index hosted by **[AppSeed](https://appseed.us)**
+- [Flask Dashboard - StarAdmin Design](https://appseed.us/admin-dashboards/flask-dashboard-staradmin) - Product page
+- [Flask Dashboard StarAdmin Demo](https://flask-dashboard-staradmin.appseed.us/) - LIVE App
+- [Flask Dashboard StarAdmin Docs](https://docs.appseed.us/admin-dashboards/flask-dashboard-staradmin/) - Documentation
+- More [Flask Dashboards](https://appseed.us/admin-dashboards/flask) - index hosted by **AppSeed**
+- More [Admin Dashboards](https://appseed.us/admin-dashboards) - index hosted by **AppSeed**
 
 <br />
 
@@ -310,4 +310,4 @@ Visit `http://localhost:8001` in your browser. The app should be up & running.
 <br />
 
 ---
-[Flask Dashboard StarAdmin](https://appseed.us/admin-dashboards/flask-dashboard-staradmin) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
+[Flask Dashboard - StarAdmin Design](https://appseed.us/admin-dashboards/flask-dashboard-staradmin) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
