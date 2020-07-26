@@ -1,4 +1,4 @@
-# [Flask Dashboard - StarAdmin Design](https://appseed.us/admin-dashboards/flask-dashboard-staradmin)
+# [Flask Dashboard - Star Admin](https://appseed.us/admin-dashboards/flask-dashboard-staradmin)
 
 > **Open-Source Admin Dashboard** coded in **Flask Framework** by **AppSeed** [Web App Generator](https://appseed.us/app-generator) - Features:
 
@@ -16,9 +16,9 @@
 
 > Links
 
-- [Flask Dashboard - StarAdmin Design](https://appseed.us/admin-dashboards/flask-dashboard-staradmin) - Product page
-- [Flask Dashboard StarAdmin Demo](https://flask-dashboard-staradmin.appseed.us/) - LIVE App
-- [Flask Dashboard StarAdmin Docs](https://docs.appseed.us/admin-dashboards/flask-dashboard-staradmin/) - Documentation
+- [Flask Dashboard - Star Admin](https://appseed.us/admin-dashboards/flask-dashboard-staradmin) - Product page
+- [Flask Dashboard Star Admin Demo](https://flask-dashboard-staradmin.appseed.us/) - LIVE App
+- [Flask Dashboard Star Admin Docs](https://docs.appseed.us/admin-dashboards/flask-dashboard-staradmin/) - Documentation
 - More [Flask Dashboards](https://appseed.us/admin-dashboards/flask) - index hosted by **AppSeed**
 - More [Admin Dashboards](https://appseed.us/admin-dashboards) - index hosted by **AppSeed**
 
@@ -301,6 +301,16 @@ Visit `http://localhost:8001` in your browser. The app should be up & running.
 
 <br />
 
+## [Star Admin](https://www.bootstrapdash.com/product/star-admin-free/?ref=23) - Free Bootstrap Admin Template
+
+[Star Admin](https://www.bootstrapdash.com/product/star-admin-free/?ref=23) is a free responsive admin template built with Bootstrap 4. The template has colorful, attractive yet simple and elegant design. The template is well crafted, with all the components neatly and carefully designed and arranged within the template.
+
+[Star Admin](https://www.bootstrapdash.com/product/star-admin-free/?ref=23) is packed with all the features that fit your needs but not cramped with components you would not even use. It is an excellent fit to build admin panels, e-commerce systems, project management systems, CMS or CRM.
+
+Although the template has a design like none other, it is easily customizable to suit your requirements. Star Admin comes with a clean and well-commented code that makes it easy to work with the template. Thus making it an ideal pick for jump starting your project.
+
+<br />
+
 ## Credits & Links
 
 - [Flask Framework](https://www.palletsprojects.com/p/flask/) - The offcial website
@@ -310,4 +320,4 @@ Visit `http://localhost:8001` in your browser. The app should be up & running.
 <br />
 
 ---
-[Flask Dashboard - StarAdmin Design](https://appseed.us/admin-dashboards/flask-dashboard-staradmin) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
+[Flask Dashboard - Star Admin](https://appseed.us/admin-dashboards/flask-dashboard-staradmin) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
