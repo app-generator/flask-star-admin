@@ -35,7 +35,7 @@ PRO versions include **Premium UI Kits**, Lifetime updates and **24/7 LIVE Suppo
 <br />
 <br />
 
-![Boierplate Code Flask Dashboard - Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/flask-dashboard-staradmin/master/media/flask-dashboard-staradmin-screen.png)
+![Star Admin Flask - Template project coded in Flask with basic modules by AppSeed.](https://raw.githubusercontent.com/app-generator/flask-dashboard-staradmin/master/media/flask-dashboard-staradmin-screen.png)
 
 <br />
 
