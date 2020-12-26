@@ -321,4 +321,4 @@ Although the template has a design like none other, it is easily customizable to
 <br />
 
 ---
-[Flask Dashboard](https://appseed.us/admin-dashboards/flask?ref=gh) Star Admin - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
+[Flask Dashboard](https://appseed.us/admin-dashboards/flask?ref=gh) Star Admin - Provided by **AppSeed [App Generator](https://appseed.us/app-generator)**.
