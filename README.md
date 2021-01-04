@@ -20,7 +20,7 @@
 > Links
 
 - [Flask Star Admin](https://appseed.us/admin-dashboards/flask-dashboard-staradmin) - product page
-- [Flask Star Admin Demo](https://flask-dashboard-staradmin.appseed.us/) - LIVE App
+- [Flask Star Admin Demo](https://flask-star-admin.appseed-srv1.com/) - LIVE App
 - [Flask Star Admin Docs](https://docs.appseed.us/admin-dashboards/flask-dashboard-staradmin/) - Documentation
 
 <br />
