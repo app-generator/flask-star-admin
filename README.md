@@ -21,7 +21,7 @@
 
 - [Flask Star Admin](https://appseed.us/admin-dashboards/flask-dashboard-staradmin) - product page
 - [Flask Star Admin Demo](https://flask-star-admin.appseed-srv1.com/) - LIVE App
-- [Flask Star Admin Docs](https://docs.appseed.us/admin-dashboards/flask-dashboard-staradmin/) - Documentation
+- [Flask Tutorial](https://github.com/app-generator/tutorial-flask) - Getting started with Flask
 
 <br />
 
