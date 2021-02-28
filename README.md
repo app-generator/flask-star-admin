@@ -44,8 +44,8 @@ PRO versions include **Premium UI Kits**, Lifetime updates and **24/7 LIVE Suppo
 
 ```bash
 $ # Get the code
-$ git clone https://github.com/app-generator/flask-dashboard-staradmin.git
-$ cd flask-dashboard-staradmin
+$ git clone https://github.com/app-generator/flask-star-admin.git
+$ cd flask-star-admin
 $
 $ # Virtualenv modules installation (Unix based systems)
 $ virtualenv env
@@ -211,8 +211,8 @@ The application can be easily executed in a docker container. The steps:
 > Get the code
 
 ```bash
-$ git clone https://github.com/app-generator/flask-dashboard-staradmin.git
-$ cd flask-dashboard-staradmin
+$ git clone https://github.com/app-generator/flask-star-admin.git
+$ cd flask-star-admin
 ```
 
 > Start the app in Docker
@@ -237,8 +237,8 @@ Steps to deploy on **Heroku**
 
 ```bash
 $ # Clone the source code:
-$ git clone https://github.com/app-generator/flask-dashboard-staradmin.git
-$ cd flask-dashboard-staradmin
+$ git clone https://github.com/app-generator/flask-star-admin.git
+$ cd flask-star-admin
 $
 $ # Check Heroku CLI is installed
 $ heroku -v
@@ -302,11 +302,11 @@ Visit `http://localhost:8001` in your browser. The app should be up & running.
 
 <br />
 
-## [Star Admin](https://www.bootstrapdash.com/product/star-admin-free/?ref=23) - Free Bootstrap Admin Template
+## [Star Admin](https://appseed.us/admin-dashboards/flask-dashboard-staradmin-pro) - Free Bootstrap Admin Template
 
-[Star Admin](https://www.bootstrapdash.com/product/star-admin-free/?ref=23) is a free responsive admin template built with Bootstrap 4. The template has colorful, attractive yet simple and elegant design. The template is well crafted, with all the components neatly and carefully designed and arranged within the template.
+[Star Admin](https://appseed.us/admin-dashboards/flask-dashboard-staradmin-pro) is a free responsive admin template built with Bootstrap 4. The template has colorful, attractive yet simple and elegant design. The template is well crafted, with all the components neatly and carefully designed and arranged within the template.
 
-[Star Admin](https://www.bootstrapdash.com/product/star-admin-free/?ref=23) is packed with all the features that fit your needs but not cramped with components you would not even use. It is an excellent fit to build admin panels, e-commerce systems, project management systems, CMS or CRM.
+[Star Admin](https://appseed.us/admin-dashboards/flask-dashboard-staradmin-pro) is packed with all the features that fit your needs but not cramped with components you would not even use. It is an excellent fit to build admin panels, e-commerce systems, project management systems, CMS or CRM.
 
 Although the template has a design like none other, it is easily customizable to suit your requirements. Star Admin comes with a clean and well-commented code that makes it easy to work with the template. Thus making it an ideal pick for jump starting your project.
 
