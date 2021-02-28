@@ -19,7 +19,7 @@
 
 > Links
 
-- [Star Admin Flask](https://appseed.us/admin-dashboards/flask-dashboard-staradmin) - product page
+- [Star Admin Flask](https://appseed.us/admin-dashboards/flask-star-admin) - product page
 - [Star Admin Flask - Demo](https://flask-star-admin.appseed-srv1.com/) - LIVE App
 - [Flask Tutorial](https://github.com/app-generator/tutorial-flask) - Getting started with Flask
 
