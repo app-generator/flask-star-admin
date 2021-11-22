@@ -1,5 +1,11 @@
 # Change Log
 
+## [1.0.4] 2021-11-22
+### Initial Release
+
+- Bump UI: Star Admin2 **v1.0.0**
+- Bump Codebase: [Flask Boilerplate](https://github.com/app-generator/boilerplate-code-flask-dashboard) **v2.0.0**
+
 ## [1.0.3] 2021-05-16
 ### Dependencies Update
 
