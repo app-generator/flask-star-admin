@@ -1,0 +1,23 @@
+{
+    "backend": "flask",
+    "db_name": "",
+    "db_pass": "",
+    "db_type": "mysql",
+    "db_user": "",
+    "dbms": "1",
+    "description": "generated product",
+    "design": "star-admin",
+    "docker": "1",
+    "err_code": 0,
+    "frontend": "",
+    "heroku": "0",
+    "pattern": "mvc",
+    "pro": "0",
+    "task_id": "92d7ce9b-497d-4ad9-94b6-c1e7e2a8d2fc",
+    "task_info": "Task is finished",
+    "task_output": "92d7ce9b-497d-4ad9-94b6-c1e7e2a8d2fc.zip",
+    "task_result": "SUCCESS",
+    "task_state": "FINISHED",
+    "task_ts_end": "2022-05-31-09-13-39",
+    "task_ts_start": "2022-05-31-09-11-42"
+}
