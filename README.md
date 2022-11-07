@@ -120,7 +120,7 @@ At this point, the app runs at `http://127.0.0.1:5000/`.
 
 <br />
 
-## Deploy on Render
+## [Deploy on Render](https://youtu.be/mGaqgHvBnug)
 
 The product can be easily deployed on Render using [Python Deployer](https://github.com/app-generator/deploy-automation-render) (`open-source` tool).
 
