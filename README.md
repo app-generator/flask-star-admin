@@ -124,12 +124,16 @@ At this point, the app runs at `http://127.0.0.1:5000/`.
 
 The product can be easily deployed on Render using [Python Deployer](https://github.com/app-generator/deploy-automation-render) (`open-source` tool).
 
+<br />
+
 > 👉 **Step 1**: Set UP a [Render](https://render.com/) account 
 
 - Create account
 - Create an [API_KEY](https://render.com/docs/api)
 - Attach a `credit card` to the account
   - **Note**: Each Python service deployed on Render requires a monthly payment
+
+<br />
 
 > 👉 **Step 2**: Download [Python Deployer](https://github.com/app-generator/deploy-automation-render)
 
@@ -139,12 +143,16 @@ $ cd deploy-automation-render
 $ pip install -r requirements.txt
 ```
 
+<br />
+
 > 👉 **Step 3**: Set up the `ENV` as suggested in the [deployer](https://github.com/app-generator/deploy-automation-render) help
 
 ```bash
 $ export RENDER_API_KEY=<RENDER_API_KEY>   # mandatory
 $ export RENDER_OWNER_ID=<RENDER_OWNER_ID> # needs to have a CC attached, used for Billing
 ```
+
+<br />
 
 > 👉 **Step 4**: Deploy the repo
 
