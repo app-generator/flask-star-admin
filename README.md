@@ -120,6 +120,42 @@ At this point, the app runs at `http://127.0.0.1:5000/`.
 
 <br />
 
+### 👉 Deploy on [Render](https://render.com/)
+
+The product can be easily deployed on Render using [Python Deployer](https://github.com/app-generator/deploy-automation-render) (`open-source` tool).
+
+> **Step 1**: Set UP a [Render](https://render.com/) account 
+
+- Create account
+- Create an [API_KEY](https://render.com/docs/api)
+- Attach a `credit card` to the account
+  - **Note**: Each Python service deployed on Render requires a monthly payment
+
+> **Step 2**: Download [Python Deployer](https://github.com/app-generator/deploy-automation-render)
+
+```bash
+$ git clone https://github.com/app-generator/deploy-automation-render.git   
+$ cd deploy-automation-render
+$ pip install -r requirements.txt
+```
+
+> **Step 3**: Set up the `ENV` as suggested in the [deployer](https://github.com/app-generator/deploy-automation-render) help
+
+```bash
+$ export RENDER_API_KEY=<RENDER_API_KEY>   # mandatory
+$ export RENDER_OWNER_ID=<RENDER_OWNER_ID> # needs to have a CC attached, used for Billing
+```
+
+> **Step 4**: Deploy the repo
+
+```bash
+$ python.exe deployer.py flask https://github.com/app-generator/flask-star-admin "run:app"
+```
+
+The new service should be visible on your Render Dashboard and soon be LIVE. 
+
+<br />
+
 ### 👉 Create Users
 
 By default, the app redirects guest users to authenticate. In order to access the private pages, follow this set up: 
