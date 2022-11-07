@@ -1,9 +1,15 @@
 # Change Log
 
+## [1.0.7] 2022-11-07
+### Improvements
+
+- Improved static assets management 
+  - `ASSETS_ROOT` loaded from `.env`
+
 ## [1.0.6] 2022-05-31
 ### Improvements
 
-- Built with [Star Admin Generator](https://appseed.us/generator/star-admin/)
+-Built with [App Generator](https://appseed.us/generator/)
   - Timestamp: `2022-05-31 09:13`
 
 ## [1.0.5] 2022-01-16

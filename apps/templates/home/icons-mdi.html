@@ -5,7 +5,7 @@
 <!-- Specific CSS Plugins goes HERE  -->
 {% block css_plugins %}
 
-  <link rel="stylesheet" href="/static/assets/js/select.dataTables.min.css">
+  <link rel="stylesheet" href="{{ config.ASSETS_ROOT }}/js/select.dataTables.min.css">
 
 {% endblock css_plugins %}
 
@@ -4880,13 +4880,13 @@
 <!-- Specific JS Plugins goes HERE  -->
 {% block js_plugins %}
 
-  <script src="/static/assets/vendors/bootstrap-datepicker/bootstrap-datepicker.min.js"></script>
+  <script src="{{ config.ASSETS_ROOT }}/vendors/bootstrap-datepicker/bootstrap-datepicker.min.js"></script>
 
 {% endblock js_plugins %}
 
 <!-- Specific Page JS goes HERE  -->
 {% block javascripts %}
 
-  <script src="/static/assets/js/dashboard.js"></script>
+  <script src="{{ config.ASSETS_ROOT }}/js/dashboard.js"></script>
 
 {% endblock javascripts %}

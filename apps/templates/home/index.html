@@ -5,7 +5,7 @@
 <!-- Specific CSS Plugins goes HERE  -->
 {% block css_plugins %}
 
-  <link rel="stylesheet" href="/static/assets/js/select.dataTables.min.css">
+  <link rel="stylesheet" href="{{ config.ASSETS_ROOT }}/js/select.dataTables.min.css">
 
 {% endblock css_plugins %}
 
@@ -242,7 +242,7 @@
                                   </td>
                                   <td>
                                     <div class="d-flex ">
-                                      <img src="/static/assets/images/faces/face1.jpg" alt="">
+                                      <img src="{{ config.ASSETS_ROOT }}/images/faces/face1.jpg" alt="">
                                       <div>
                                         <h6>Brandon Washington</h6>
                                         <p>Head admin</p>
@@ -275,7 +275,7 @@
                                   </td>
                                   <td>
                                     <div class="d-flex">
-                                      <img src="/static/assets/images/faces/face2.jpg" alt="">
+                                      <img src="{{ config.ASSETS_ROOT }}/images/faces/face2.jpg" alt="">
                                       <div>
                                         <h6>Laura Brooks</h6>
                                         <p>Head admin</p>
@@ -308,7 +308,7 @@
                                   </td>
                                   <td>
                                     <div class="d-flex">
-                                      <img src="/static/assets/images/faces/face3.jpg" alt="">
+                                      <img src="{{ config.ASSETS_ROOT }}/images/faces/face3.jpg" alt="">
                                       <div>
                                         <h6>Wayne Murphy</h6>
                                         <p>Head admin</p>
@@ -341,7 +341,7 @@
                                   </td>
                                   <td>
                                     <div class="d-flex">
-                                      <img src="/static/assets/images/faces/face4.jpg" alt="">
+                                      <img src="{{ config.ASSETS_ROOT }}/images/faces/face4.jpg" alt="">
                                       <div>
                                         <h6>Matthew Bailey</h6>
                                         <p>Head admin</p>
@@ -374,7 +374,7 @@
                                   </td>
                                   <td>
                                     <div class="d-flex">
-                                      <img src="/static/assets/images/faces/face5.jpg" alt="">
+                                      <img src="{{ config.ASSETS_ROOT }}/images/faces/face5.jpg" alt="">
                                       <div>
                                         <h6>Katherine Butler</h6>
                                         <p>Head admin</p>
@@ -665,7 +665,7 @@
                               <div class="mt-3">
                                 <div class="wrapper d-flex align-items-center justify-content-between py-2 border-bottom">
                                   <div class="d-flex">
-                                    <img class="img-sm rounded-10" src="/static/assets/images/faces/face1.jpg" alt="profile">
+                                    <img class="img-sm rounded-10" src="{{ config.ASSETS_ROOT }}/images/faces/face1.jpg" alt="profile">
                                     <div class="wrapper ms-3">
                                       <p class="ms-1 mb-1 fw-bold">Brandon Washington</p>
                                       <small class="text-muted mb-0">162543</small>
@@ -677,7 +677,7 @@
                                 </div>
                                 <div class="wrapper d-flex align-items-center justify-content-between py-2 border-bottom">
                                   <div class="d-flex">
-                                    <img class="img-sm rounded-10" src="/static/assets/images/faces/face2.jpg" alt="profile">
+                                    <img class="img-sm rounded-10" src="{{ config.ASSETS_ROOT }}/images/faces/face2.jpg" alt="profile">
                                     <div class="wrapper ms-3">
                                       <p class="ms-1 mb-1 fw-bold">Wayne Murphy</p>
                                       <small class="text-muted mb-0">162543</small>
@@ -689,7 +689,7 @@
                                 </div>
                                 <div class="wrapper d-flex align-items-center justify-content-between py-2 border-bottom">
                                   <div class="d-flex">
-                                    <img class="img-sm rounded-10" src="/static/assets/images/faces/face3.jpg" alt="profile">
+                                    <img class="img-sm rounded-10" src="{{ config.ASSETS_ROOT }}/images/faces/face3.jpg" alt="profile">
                                     <div class="wrapper ms-3">
                                       <p class="ms-1 mb-1 fw-bold">Katherine Butler</p>
                                       <small class="text-muted mb-0">162543</small>
@@ -701,7 +701,7 @@
                                 </div>
                                 <div class="wrapper d-flex align-items-center justify-content-between py-2 border-bottom">
                                   <div class="d-flex">
-                                    <img class="img-sm rounded-10" src="/static/assets/images/faces/face4.jpg" alt="profile">
+                                    <img class="img-sm rounded-10" src="{{ config.ASSETS_ROOT }}/images/faces/face4.jpg" alt="profile">
                                     <div class="wrapper ms-3">
                                       <p class="ms-1 mb-1 fw-bold">Matthew Bailey</p>
                                       <small class="text-muted mb-0">162543</small>
@@ -713,7 +713,7 @@
                                 </div>
                                 <div class="wrapper d-flex align-items-center justify-content-between pt-2">
                                   <div class="d-flex">
-                                    <img class="img-sm rounded-10" src="/static/assets/images/faces/face5.jpg" alt="profile">
+                                    <img class="img-sm rounded-10" src="{{ config.ASSETS_ROOT }}/images/faces/face5.jpg" alt="profile">
                                     <div class="wrapper ms-3">
                                       <p class="ms-1 mb-1 fw-bold">Rafell John</p>
                                       <small class="text-muted mb-0">Alaska, USA</small>
@@ -744,16 +744,16 @@
 <!-- Specific JS Plugins goes HERE  -->
 {% block js_plugins %}
 
-  <script src="/static/assets/vendors/chart.js/Chart.min.js"></script>
-  <script src="/static/assets/vendors/bootstrap-datepicker/bootstrap-datepicker.min.js"></script>
-  <script src="/static/assets/vendors/progressbar.js/progressbar.min.js"></script>
+  <script src="{{ config.ASSETS_ROOT }}/vendors/chart.js/Chart.min.js"></script>
+  <script src="{{ config.ASSETS_ROOT }}/vendors/bootstrap-datepicker/bootstrap-datepicker.min.js"></script>
+  <script src="{{ config.ASSETS_ROOT }}/vendors/progressbar.js/progressbar.min.js"></script>
 
 {% endblock js_plugins %}
 
 <!-- Specific Page JS goes HERE  -->
 {% block javascripts %}
 
-  <script src="/static/assets/js/dashboard.js"></script>
-  <script src="/static/assets/js/Chart.roundedBarCharts.js"></script>
+  <script src="{{ config.ASSETS_ROOT }}/js/dashboard.js"></script>
+  <script src="{{ config.ASSETS_ROOT }}/js/Chart.roundedBarCharts.js"></script>
 
 {% endblock javascripts %}

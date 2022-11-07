@@ -5,8 +5,8 @@
 <!-- Specific CSS Plugins goes HERE  -->
 {% block css_plugins %}
 
-  <link rel="stylesheet" href="/static/assets/vendors/select2/select2.min.css">
-  <link rel="stylesheet" href="/static/assets/vendors/select2-bootstrap-theme/select2-bootstrap.min.css">
+  <link rel="stylesheet" href="{{ config.ASSETS_ROOT }}/vendors/select2/select2.min.css">
+  <link rel="stylesheet" href="{{ config.ASSETS_ROOT }}/vendors/select2-bootstrap-theme/select2-bootstrap.min.css">
 
 {% endblock css_plugins %}
 
@@ -616,7 +616,7 @@
             <h4 class="card-title">Select 2</h4>
             <div class="form-group">
               <label>Single select box using select 2</label>
-              <select class="/static/assets/js-example-basic-single w-100">
+              <select class="{{ config.ASSETS_ROOT }}/js-example-basic-single w-100">
                 <option value="AL">Alabama</option>
                 <option value="WY">Wyoming</option>
                 <option value="AM">America</option>
@@ -626,7 +626,7 @@
             </div>
             <div class="form-group">
               <label>Multiple select using select 2</label>
-              <select class="/static/assets/js-example-basic-multiple w-100" multiple="multiple">
+              <select class="{{ config.ASSETS_ROOT }}/js-example-basic-multiple w-100" multiple="multiple">
                 <option value="AL">Alabama</option>
                 <option value="WY">Wyoming</option>
                 <option value="AM">America</option>
@@ -669,17 +669,17 @@
 <!-- Specific JS Plugins goes HERE  -->
 {% block js_plugins %}
 
-  <script src="/static/assets/vendors/typeahead.js/typeahead.bundle.min.js"></script>
-  <script src="/static/assets/vendors/select2/select2.min.js"></script>
-  <script src="/static/assets/vendors/bootstrap-datepicker/bootstrap-datepicker.min.js"></script>
+  <script src="{{ config.ASSETS_ROOT }}/vendors/typeahead.js/typeahead.bundle.min.js"></script>
+  <script src="{{ config.ASSETS_ROOT }}/vendors/select2/select2.min.js"></script>
+  <script src="{{ config.ASSETS_ROOT }}/vendors/bootstrap-datepicker/bootstrap-datepicker.min.js"></script>
 
 {% endblock js_plugins %}
 
 <!-- Specific Page JS goes HERE  -->
 {% block javascripts %}
 
-  <script src="/static/assets/js/file-upload.js"></script>
-  <script src="/static/assets/js/typeahead.js"></script>
-  <script src="/static/assets/js/select2.js"></script>
+  <script src="{{ config.ASSETS_ROOT }}/js/file-upload.js"></script>
+  <script src="{{ config.ASSETS_ROOT }}/js/typeahead.js"></script>
+  <script src="{{ config.ASSETS_ROOT }}/js/select2.js"></script>
 
 {% endblock javascripts %}

@@ -72,14 +72,14 @@
 <!-- Specific JS Plugins goes HERE  -->
 {% block js_plugins %}
 
-  <script src="/static/assets/vendors/chart.js/Chart.min.js"></script>
-  <script src="/static/assets/vendors/bootstrap-datepicker/bootstrap-datepicker.min.js"></script>
+  <script src="{{ config.ASSETS_ROOT }}/vendors/chart.js/Chart.min.js"></script>
+  <script src="{{ config.ASSETS_ROOT }}/vendors/bootstrap-datepicker/bootstrap-datepicker.min.js"></script>
 
 {% endblock js_plugins %}
 
 <!-- Specific Page JS goes HERE  -->
 {% block javascripts %}
 
-  <script src="/static/assets/js/chart.js"></script>
+  <script src="{{ config.ASSETS_ROOT }}/js/chart.js"></script>
 
 {% endblock javascripts %}
