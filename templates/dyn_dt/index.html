@@ -1,0 +1,37 @@
+{% extends "layouts/base.html" %}
+
+{% block title %} Profile {% endblock %} 
+
+<!-- Specific CSS goes HERE -->
+{% block stylesheets %}{% endblock stylesheets %}
+
+{% block content %}
+
+<div class="content-wrapper">
+    <div class="row">
+        <div class="col-sm-12">
+            <div class="card">
+                <div class="card-header bg-white">
+                    <h5>
+                        Available Routes - defined in <strong>config.DYNAMIC_DATATB</strong> - Read <a target="" href="https://app-generator.dev/docs/developer-tools/flask-dynamic-datatables.html">Documentation</a>.
+                    </h5>
+                </div>
+                <div class="card-block px-4">
+                    <ul class="pc-submenu mt-3">
+                        {% for link in routes %}
+                            <li class="pc-item">
+                                <a class="pc-link" href="{{ url_for('table_blueprint.model_dt', aPath=link) }}">{{ link }}</a>
+                            </li>
+                        {% endfor %}
+                    </ul>
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+{% endblock content %}
+
+<!-- Specific Page JS goes HERE  -->
+{% block js_plugins %}{% endblock js_plugins %}
